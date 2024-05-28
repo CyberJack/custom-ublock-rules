@@ -1,4 +1,4 @@
-! Title: CyberJack custom uBlock rules
+! Title: CyberJack's custom uBlock rules
 ! Version: 28May2024v1
 ! Expires: 12 hours
 ! Description: My personal custom uBlock rules
