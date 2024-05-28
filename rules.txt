@@ -1,0 +1,8 @@
+! Title: CyberJack custom uBlock rules
+! Version: 28May2024v1
+! Expires: 12 hours
+! Description: My personal custom uBlock rules
+! Homepage: https://github.com/CyberJack/custom-ublock-rules
+
+! Remove the anoying "Signup with google" message
+||accounts.google.com/gsi/client$script,third-party
